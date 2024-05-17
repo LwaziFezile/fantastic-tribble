@@ -5,3 +5,6 @@ Welcome to my LeetCode Questions and Solutions repository! This repository is de
 ## Repository Structure
 
 The repository is organized by problem difficulty and topic. Each difficulty level has its own directory, and within each directory, problems are further organized by topic.
+
+## Complete Questions
+- TwoSum
