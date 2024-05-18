@@ -6,5 +6,6 @@ Welcome to my LeetCode Questions and Solutions repository! This repository is de
 
 The repository is organized by problem difficulty and topic. Each difficulty level has its own directory, and within each directory, problems are further organized by topic.
 
-## Complete Questions
+## CompleteD Questions
 - TwoSum
+- ZigZag Conversion (Python)
