@@ -13,7 +13,7 @@ class ZigZagConversion :
 
             Returns:
                 str: The string formed by reading the ZigZag pattern line by line.
-            """
+        """
             if numRows == 1:
                 return s
             if numRows % 2 == 0:
