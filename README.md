@@ -7,6 +7,6 @@ Welcome to my LeetCode Questions and Solutions repository! This repository is de
 The repository is organized by problem difficulty and topic. Each difficulty level has its own directory, and within each directory, problems are further organized by topic.
 
 ## Completed Questions
-- TwoSum
+- TwoSum (Java)
 - ZigZag Conversion (Python)
-- Palindrome Number
+- Palindrome Number (Java)
